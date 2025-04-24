@@ -38,3 +38,7 @@ meeting = {
 
 prompt = generateFakeShots(meeting, 3)
 print(prompt)
+```
+📝 **Style note**:  
+Yeah, the function names are in camelCase — back in 2021 I didn’t know Python didn’t like that.  
+I kept them this way because that’s how it was back then. It's part of the story.
