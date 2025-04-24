@@ -1,9 +1,3 @@
-
----
-
-### ✅ **promptEngine.py** (cu nume fictive)
-
-```python
 import random
 
 fakeSummaryData = [
